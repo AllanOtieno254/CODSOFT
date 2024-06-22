@@ -1,6 +1,6 @@
-## CODSOFT
+# CODSOFT
 ## Internship Tasks in Data Science
-# Description Statement
+## Description Statement
 This repository showcases a series of data science projects completed during an internship with CODESOFT. Each project utilizes Python and various machine learning techniques to solve specific problems in data analysis, classification, regression, and predictive modeling.
 ## Projects
 

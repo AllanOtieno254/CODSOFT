@@ -3,6 +3,14 @@
 ## contact@codsoft.in
 ## https://t.me/codsoft
 
+## LinkedIn: CODSOFT
+## Telegram: https://t.me/codsoftt
+
+# If any Query?
+## Please feel free to contact -
+## Email: contact@codsoft.com
+## Website: https://www.codsoft.in/
+
 ## Internship Tasks in Data Science
 # Description Statement
 This repository showcases a series of data science projects completed during an internship with CODESOFT. Each project utilizes Python and various machine learning techniques to solve specific problems in data analysis, classification, regression, and predictive modeling.
